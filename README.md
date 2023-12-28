@@ -37,3 +37,7 @@
     </p>
   </article>
 </section>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoalvesss&color=blue&style=for-the-badge"></img>
+</div>
