@@ -32,8 +32,8 @@
   <article align="center">
     <h3>Github Stats</h3>
     <p align="center">
-      <img height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaoalvesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-      <img height="165px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalvesss&theme=dracula&hide_border=false&include_all_commits=true&count_private=true">
+      <img height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaoalvesss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+      <img height="165px" alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesss&layout=compact&theme=tokyonight&langs_count=8&hide=Makefile,Cmake,Html">
     </p>
   </article>
 </section>
