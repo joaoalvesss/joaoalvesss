@@ -1,14 +1,14 @@
 username: joaoalvesss
 
 profile:
-  name: "João Alves"
-  tagline: "MSc in Informatics and Computing Engineering (FEUP) | Data Analytics & ML"
-  company: "University of Porto (FEUP)"
-  location: "Porto, Portugal"
+  name: " "
+  tagline: " "
+  company: " "
+  location: " "
   bio: |
     I'm a MSc student at FEUP focused on turning data into decisions.
     I work with Python + SQL for analysis, and I use IBM SPSS and ML tooling to model and interpret results.
-  philosophy: '"Make insights reproducible, interpretable, and useful."'
+  philosophy: " "
 
 social:
   email: "joaobalves2012@gmail.com"
@@ -33,33 +33,33 @@ galaxy_arms:
       - "Scikit-learn"
       - "Feature Engineering"
       - "Model Evaluation"
-      - "Graph Mining"
       - "Prediction"
 
   - name: "Experimentation & Systems"
     color: "axon_amber"
     items:
-      - "IBM SPSS"
-      - "InfluxDB"
-      - "Grafana"
-      - "MQTT"
+      - "Unity"
+      - "React"
+      - "Django"
       - "Git"
-      - "Docker"
+      - "IBM SPSS"
+      - "LaTeX"
+      - "Figma"
 
 # Featured projects (replace repos with your real ones)
 # Use format "owner/repo"
-# projects:
-#   - repo: "joaoalvesss/ExplicaME"
-#     arm: 0
-#     description: "Analytics-driven matching engine to optimize student–tutor compatibility using learning profiles."
+projects:
+  - repo: "joaoalvesss/ExplicaME"
+    arm: 0
+    description: "LGP Startup with analytics-driven matching engine to optimize student–tutor compatibility using learning profiles."
 
-#   - repo: "joaoalvesss/molecular-protein-prediction"
-#     arm: 1
-#     description: "Frequent substructure mining + ML model for Alpha-Helix residue prediction; improved F1-macro by 12%."
+  - repo: "joaoalvesss/feup-seminars"
+    arm: 1
+    description: "Frequent substructure mining + ML model for Alpha-Helix residue prediction (seminar 1b); Music hit prediction based on musical features (seminar 2a)."
 
-#   - repo: "joaoalvesss/iot-cps-energy-management"
-#     arm: 2
-#     description: "Modular IoT/CPS monitoring with MQTT edge-cloud + InfluxDB/Grafana and forecasting for occupancy-based adjustments."
+  - repo: "joaoalvesss/feup-sci"
+    arm: 2
+    description: "Modular IoT/CPS monitoring with MQTT edge-cloud + InfluxDB/Grafana and forecasting for occupancy-based adjustments."
 
 # Optional theme tweaks (defaults are already good)
 theme:
@@ -87,4 +87,6 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
-  max_display: 8
+    - "ShaderLab"
+    - "Jupyter Notebook"
+  max_display: 6

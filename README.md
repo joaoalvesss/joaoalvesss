@@ -1,18 +1,13 @@
-<!-- <p align="center">
-  <img src="assets/generated/galaxy-header.svg" alt="Galaxy Header" />
-</p> -->
+<h1 align="center">
+  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-<h1 align="center"> Hi </h1>
 <p align="center">
   <b>João Alves</b><br/>
   MSc in Informatics and Computing Engineering (FEUP) | Data Analytics & ML
 </p>
 
-<!-- Badges -->
 <p align="center">
-  <!-- <a href="https://joaoalvesss.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a> -->
   <a href="https://linkedin.com/in/joaoalvesss" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,27 +20,21 @@
 
 ## About me
 
-I'm a MSc student at FEUP focused on turning data into clear, reproducible insights.
-I work mainly with **Python + SQL** for analysis, and I have experience with **IBM SPSS** and applied a little **ML** to model and interpret results.
+I'm a MSc student at FEUP focused on turning data into clear, reproducible insights.  
+I primarily work with **Python + SQL** for analysis and have experience with **IBM SPSS** and applied **machine learning** for modeling and interpretation.
 
----
-
-<p align="center">
-  <img src="assets/generated/mission-telemetry.svg" alt="Mission Telemetry" />
-</p>
+Below is a visual overview of the technologies and domains I work with and continue to develop.
 
 <p align="center">
-  <img src="assets/generated/tech-stack.svg" alt="Tech Stack" />
+  <img src="assets/generated/galaxy-header.svg" alt="Tech Stack" />
 </p>
-
-<!-- <p align="center">
-  <img src="assets/generated/featured-projects.svg" alt="Featured Projects" />
-</p> -->
 
 ---
 
 ## Selected work
 
-- **ExplicaME Startup:** matching engine to improve student–tutor compatibility, plus AI support during sessions.
-- **Molecular & Protein Prediction:** substructure mining + predictive modeling.
-- **Smart Energy Management:** telemetry + time-series monitoring (InfluxDB/Grafana) with forecasting.
+My work typically combines data exploration, modeling, and system-level implementation. Here are a few projects I’ve contributed to and found particularly interesting.
+
+<p align="center">
+  <img src="assets/generated/projects-constellation.svg" alt="Projects" />
+</p>
