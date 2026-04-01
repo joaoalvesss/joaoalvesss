@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>João Alves</b><br/>
-  MSc in Informatics and Computing Engineering (FEUP) | Data Analytics & ML
+  MSc in Informatics and Computing Engineering (FEUP) | Data Engineer & Analytics
 </p>
 
 <p align="center">
