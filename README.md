@@ -20,8 +20,7 @@
 
 ## About me
 
-I'm a MSc student at FEUP focused on turning data into clear, reproducible insights.  
-I primarily work with **Python + SQL** for analysis and have experience with **IBM SPSS** and applied **machine learning** for modeling and interpretation.
+I'm a Master's student at FEUP with a strong interest in data analysis, data engineering, and machine learning, currently developing my thesis at the intersection of Data Analysis and Virtual Reality. Experienced in building predictive models, designing IoT/edge data pipelines, and developing AI-powered applications from raw data. Researcher with proven leadership in cross-functional engineering teams. Seeking a Junior Data Engineer or Data Analyst role.
 
 Below is a visual overview of the technologies and domains I work with and continue to develop.
 
